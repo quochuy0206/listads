@@ -16,3 +16,4 @@
 
 #element
 ##[id^="ads_top_4"]
+##[class^="ad-sticky-content"]
