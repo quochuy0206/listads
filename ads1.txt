@@ -15,5 +15,6 @@
 127.0.0.1 man.club
 
 #element
+http://biphimz.tv/##[id^="ads_top_4"]
 ##[id^="ads_top_4"]
 ##[class^="ad-sticky-content"]
