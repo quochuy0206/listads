@@ -1,0 +1,17 @@
+#Android host file - Adaway
+#
+# Title: ABPVN List
+# Updated: 16 Sep 2021 10:40 UTC+7
+# License: ABPVN
+# Please report any unblocked ads or problems by email or in our forums
+# Email: support@abpvn.com
+# Homepage: http://abpvn.com
+# Facebook Fanpage: https://facebook.com/abpvn.org
+# ---------- Generic Blocking Rules ----------
+#[General]
+0.0.0.0 https://www.fb88cup.com
+0.0.0.0 https://kubetso1.com
+0.0.0.0 https://man.club
+0.0.0.0 
+0.0.0.0 
+0.0.0.0 
