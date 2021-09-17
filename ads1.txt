@@ -9,6 +9,6 @@
 # Facebook Fanpage: https://facebook.com/abpvn.org
 # ---------- Generic Blocking Rules ----------
 #[General]
-0.0.0.0 https://www.fb88cup.com
-0.0.0.0 https://kubetso1.com
-0.0.0.0 https://man.club
+127.0.0.1 https://www.fb88cup.com
+127.0.0.1 https://kubetso1.com
+127.0.0.1 https://man.club
