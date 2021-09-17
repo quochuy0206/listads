@@ -12,6 +12,3 @@
 0.0.0.0 https://www.fb88cup.com
 0.0.0.0 https://kubetso1.com
 0.0.0.0 https://man.club
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
