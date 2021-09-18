@@ -10,4 +10,4 @@
 ##[class^="ad-sticky-content"]
 biphimz.tv##[class^="banner_"]
 biphimz.tv##[id^="banner_"]
-
+.
