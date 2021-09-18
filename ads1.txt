@@ -6,8 +6,5 @@
 0.0.0.0 kubetso1.com
 
 #element
-##[id^="ads_top_4"]
-##[class^="ad-sticky-content"]
-biphimz.tv##[class^="banner_"]
-biphimz.tv##[id^="banner_"]
+||kubetso1.com^
 .
