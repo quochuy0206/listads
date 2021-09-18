@@ -1,9 +1,8 @@
 #Android host file - Adaway
 #[General]
 #web
-127.0.0.1 fb88cup.com
-127.0.0.1 kubetso1.com
-127.0.0.1 man.club
+0.0.0.0 fb88cup.com
+0.0.0.0 man.club
 0.0.0.0 kubetso1.com
 
 #element
